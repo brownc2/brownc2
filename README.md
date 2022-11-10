@@ -1,3 +1,7 @@
+https://github.com/brownc2/CV
+
+[**My CV**](https://github.com/brownc2/CV)  
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on my own personal website.
