@@ -1,5 +1,3 @@
-https://github.com/brownc2/CV
-
 [**My CV**](https://github.com/brownc2/CV)  
 
 ### Hi there 👋
